@@ -1,3 +1,5 @@
+gh extension upgrade gh-copilot
+
 ---
 title: Installing GitHub Copilot in the CLI
 intro: 'Learn how to install {% data variables.product.prodname_copilot_cli_short %} so that you can get suggestions and explanations for the command line.'
